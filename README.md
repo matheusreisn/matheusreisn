@@ -9,7 +9,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-(https://github-readme-stats.vercel.app/api?username=matheusreis&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=matheusreis&show_icons=true&theme=tokyonight
 
 Como me encontrar:
 [LinkedIn](https://www.linkedin.com/in/matheus-reis-052a3620a/)  
