@@ -6,8 +6,6 @@
 
 ![Matheus Reis GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusreisn&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=matheusreisn&theme=radical&no-bg=true&no-frame=true&row=1)
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
