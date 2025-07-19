@@ -4,9 +4,7 @@
 🔄 Transição de carreira do Marketing para o mundo da Tecnologia  
 🚀 Apaixonado por aprendizado constante e por transformar ideias em soluções práticas
 
-![Visitor Count](https://profile-counter.glitch.me/matheusreisn/count.svg)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusreisn&theme=radical&hide_border=true)
+![Matheus Reis GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusreisn&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=matheusreisn&theme=radical&no-bg=true&no-frame=true&row=1)
 
